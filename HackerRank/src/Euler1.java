@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * 
+ * @author subash
+ *
+ */
 public class Euler1 {
 	
 	public static void main(String args[]){
